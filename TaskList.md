@@ -4,21 +4,21 @@
 
 - [x] [Github](https://github.com/)
 - [x] [Figma](https://www.figma.com)
-- [ x] [Codewars](https://www.codewars.com/)
+- [x] [Codewars](https://www.codewars.com/)
 
 ## Sandbox
 
-- [ x] [CodePen](https://codepen.io/)
+- [x] [CodePen](https://codepen.io/)
 - [ ] [CodeSandbox](https://codesandbox.io/)
 
 ## Editor
 
-- [ x] [Visual Studio Code](https://code.visualstudio.com/)
+- [x] [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Install
 
-- [ x] [NodeJS](https://nodejs.org/uk/)
-- [ x] [Git](https://git-scm.com/downloads)
+- [x] [NodeJS](https://nodejs.org/uk/)
+- [x] [Git](https://git-scm.com/downloads)
 
 ## Start learning git
 
